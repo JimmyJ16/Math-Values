@@ -1,4 +1,4 @@
-A = 3
-B = 3
+A = None
+B = None
 
 print((A + B))
